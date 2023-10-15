@@ -4,7 +4,7 @@ public class TestPersonne {
 
         personne.setName("Hayder");
         personne.setFirstName("Labidi");
-        personne.setDateNaiss(1, 1, 2022);
+        personne.setDateNaiss(20, 10, 2001);
 
         System.out.println("nom : " + personne.Name);
         System.out.println("Prenom : " + personne.firstName);
